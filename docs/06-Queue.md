@@ -13,4 +13,5 @@ DamageLabs/clahub #270, #274 and #268, in that order.
 [ ] resign-on-version-bump       owners can require re-signing when a new CLA version is published, with an optional grace period (#270)
 [ ] custom-email-templates       owners customize the subject and body of the new-signature email with variables and a preview (#274)
 [ ] gdpr-export-and-deletion     users download their data as JSON and delete their account (#268)
+[ ] m1-review                    the review of milestone 1 as docs/05 §8 says: its paragraph clause by clause, then the code; confirmed findings open milestone 1.1
 ```
